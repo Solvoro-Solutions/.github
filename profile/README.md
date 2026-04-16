@@ -6,7 +6,7 @@
 
 *A modern tech platform offering problem-solving as a service — empowering students, startups, and businesses with innovative, scalable, and real-world digital solutions.*
 
-[![Website](https://img.shields.io/badge/Website-solvoro.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://solvoro.in)
+[![Website](https://img.shields.io/badge/Website-solvoro.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.solvoro.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Solvoro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/solvoro/)
 [![Instagram](https://img.shields.io/badge/Instagram-solvoro__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/solvoro_official/)
 [![X](https://img.shields.io/badge/X-@SolvoroOfficial-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SolvoroOfficial)
@@ -93,6 +93,6 @@ Expert mentorship, troubleshooting, and improvement recommendations.
 
 ---
 
-© 2025 Solvoro. All rights reserved.
+© 2026 Solvoro. All rights reserved.
 
 </div>
